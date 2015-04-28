@@ -23,7 +23,7 @@
 		"contao/core": ">=2.11,<3.0"
 	},
 	"replace": {
-		"contao-legacy/backboneit_opengraph": "*"
+		"contao-legacy/backboneit_opengraph": "self.version"
 	},
 	"extra": {
 		"contao": {
